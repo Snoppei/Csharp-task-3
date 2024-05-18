@@ -10,7 +10,7 @@
         <Border Width="Auto" Height="50" VerticalAlignment="Top" Background="#FF2C2C2C" DockPanel.Dock="Top">
             <DockPanel>
                 <StackPanel Orientation="Horizontal" DockPanel.Dock="Left" Height="50" FlowDirection="LeftToRight" HorizontalAlignment="Left">
-                    <Button x:Name="animalButton" Visibility="Hidden" Content="Животные" Height="50" Width="100" Background="{x:Null}" Foreground="#FFECECEC" Click="OpenButton_click" FontSize="18" />
+                    <Button x:Name="animalButton" Visibility="Hidden" Content="Animals" Height="50" Width="100" Background="{x:Null}" Foreground="#FFECECEC" Click="OpenButton_click" FontSize="18" />
                     <TextBlock Height="25" x:Name="info" Text="Wait for DLL" Width="500" Background="{x:Null}" Foreground="#FFECECEC" FontSize="18" TextAlignment="Center" />
 
                     <Popup x:Name="animalPopup" StaysOpen="False" Placement="Bottom">

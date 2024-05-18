@@ -21,3 +21,4 @@ C:\Users\negul\Desktop\Lab3-reflection\Lab3\Lab3\obj\Release\net8.0-windows\refi
 C:\Users\negul\Desktop\Lab3-reflection\Lab3\Lab3\obj\Release\net8.0-windows\Lab3.pdb
 C:\Users\negul\Desktop\Lab3-reflection\Lab3\Lab3\obj\Release\net8.0-windows\Lab3.genruntimeconfig.cache
 C:\Users\negul\Desktop\Lab3-reflection\Lab3\Lab3\obj\Release\net8.0-windows\ref\Lab3.dll
+C:\Users\negul\Desktop\Lab3-reflection\Lab3\Lab3\obj\Release\net8.0-windows\Lab3.sourcelink.json
